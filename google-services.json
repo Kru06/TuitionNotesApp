@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754575370759",
+    "firebase_url": "https://tuitionnotes-c7cfc-default-rtdb.firebaseio.com",
+    "project_id": "tuitionnotes-c7cfc",
+    "storage_bucket": "tuitionnotes-c7cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754575370759:android:8ead59ed7bc7ec74a318a2",
+        "android_client_info": {
+          "package_name": "com.example.tuitionnotesofthestudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754575370759-ib9d76g5r2848jjaduiev8a93ik7b3u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClsI4s6IBm9W-OXEX1ZuLhoBQ8Zvhwgyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754575370759-bp0an57kao4go39cd505l01fvudt5rnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
